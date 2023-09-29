@@ -1,6 +1,6 @@
 # La Venise de la donnée perdue
 
-La Venise de la donnée (perdue) est un jeu interactif pour montrer à quel point des données non-ouvertes peuvent rendre la connaissance d'un territoire très (très). 
+La Venise de la donnée (perdue) est un jeu interactif pour montrer à quel point des données non-ouvertes peuvent rendre la connaissance d'un territoire très (très) difficile à obtenir.
 
 ## Il était une fois...
 
