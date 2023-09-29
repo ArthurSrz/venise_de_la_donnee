@@ -33,4 +33,14 @@ Et c'est là qu'il a l'idée du jeu de la Venise de la donnée perdue.
 
 ## Mode d'emploi du jeu 
 
+C'est un jeu qui se joue seul. Les seuls joueurs admis sont les membres d'une collectivité. Le jeu est simple : 
+* Dans le fichier transmis par la collectivité, la seule information écrite disponible est : "la panneau se situe à l'intersection entre la rue X et la rue Y". De fait, notre honnête citoyen désespéré n'a pu que récupérer les coordonnées de ces rues.
+* **But du jeu** : trouvez où se trouve, sur une carte, les panneaux avec ces informations géographiques
+* **Outils de jeu** : Vous trouverez la carte avec les points des rues concernées [ici](https://excalidraw.com/#json=zUEivE3EGmAdNjN_qu9DU,JrxNbMJ1M1ekH6ZITkKE6Q). 
+* **Stratégie** : Nous vous conseillons de tracer toutes les intersections possibles entre tous les points géolocalisés (voir exemple ci-dessous). Normalement, la solution devrait apparaitre rapidement. Si ça n'est pas le cas, ne blamez surtout pas les données. Il faut savoir être bon perdant.
 
+![](https://github.com/ArthurSrz/venise_donnee_perdue/blob/main/demo_jeu.png?raw=true)
+
+## Mode d'emploi alternatif
+
+Vous demandez à la collectivité de respecter la réglementation de mettre ces données en open data. Mais c'est trop facile non ? 
